@@ -9,3 +9,6 @@
 >
 > Hybrid-Quantum-classical SNN
 >> [A shallow Hybrid Classical-Quantum spiking feedforward neural network for noise-robust image classification](https://www.sciencedirect.com/science/article/pii/S1568494623001175) 
+
+## Hybrid Network Architecture:
+![image](https://github.com/108mk/Hybrid-Quantum-claasical-SNN/blob/803d12b66bab8a4838de361fa352027f8d7db427/images/hybrid-quantum-classical-snn.png)
