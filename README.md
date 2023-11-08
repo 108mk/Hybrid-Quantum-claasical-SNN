@@ -1,5 +1,5 @@
 # Hybrid-Quantum-claasical-SNN
- During my internship at TATA Elxsi, I worked on a spiking neural network for neuromorphic object detection. I implemented a classical SNN on N-MNIST, N-CIFAR10 and then finally on the N-CARS dataset. I extended the work for a hybrid Quantum-classical SNN to see how useful Quantum VQE could be for object detection with noise-augmented Neuromorphic datasets. 
+ During my internship at TATA Elxsi, I worked on a spiking neural network for neuromorphic object detection. I implemented a classical SNN on N-MNIST, N-CIFAR10 and then finally on the N-CARS dataset. I extended the work for a hybrid Quantum-classical SNN to see how useful Quantum VQE could be for object detection with noise-augmented Neuromorphic datasets.
 
 ## Note: Codes for N-CARS are not available in this repository because they belong to TATA Elxsi (as per the clauses of the internship).
 
